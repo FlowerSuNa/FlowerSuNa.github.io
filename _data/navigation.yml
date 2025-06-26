@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Study"
-    url: /study/
-  - title: "ML"
-    url: /ml/
+  # - title: "Study"
+  #   url: /study/
+  # - title: "ML"
+  #   url: /ml/
   - title: "Project"
     url: /project/
   # - title: "Categories"
@@ -21,52 +21,52 @@ main:
 
 
 # ml links
-ml:
-  - title: "Machine Learning"
-    children:
-      - title: "0. 머신러닝이란"
-        url: /ml/machine_learning/0/
-  - title: "Ensembles"
-    children:
-      - title: "0. Bias Variance TradeOff"
-        url: /ml/ensembles/0/
-      - title: "1. Ensembles 이란"
-        url: /ml/ensembles/1/
-      - title: "2. Bagging 이란"
-        url: /ml/ensembles/2/
-      - title: "3. Boosting 이란"
-        url: /ml/ensembles/3/
-  - title: "Deep Learning"
-  - title: "PRML"
-    children:
-      - title: "1. 소개"
-        url: /ml/prml/1-0/
-      - title: "1.1 예시: 다항식 곡선 피팅"
-        url: /ml/prml/1-1/
+# ml:
+#   - title: "Machine Learning"
+#     children:
+#       - title: "0. 머신러닝이란"
+#         url: /ml/machine_learning/0/
+#   - title: "Ensembles"
+#     children:
+#       - title: "0. Bias Variance TradeOff"
+#         url: /ml/ensembles/0/
+#       - title: "1. Ensembles 이란"
+#         url: /ml/ensembles/1/
+#       - title: "2. Bagging 이란"
+#         url: /ml/ensembles/2/
+#       - title: "3. Boosting 이란"
+#         url: /ml/ensembles/3/
+#   - title: "Deep Learning"
+#   - title: "PRML"
+#     children:
+#       - title: "1. 소개"
+#         url: /ml/prml/1-0/
+#       - title: "1.1 예시: 다항식 곡선 피팅"
+#         url: /ml/prml/1-1/
 
 
 # study links
-study:
-  - title: "Recommender System"
-    children:
-      - title: "0. Recommender System 이란"
-        url: /study/recommender_system/0/
-  - title: "Embedding"
-  - title: "Docker"
-    children:
-      - title: "- 도커(Docker)란"
-        url: /study/docker/0/
-      - title: "- 도커 이미지와 도커 컨테이너"
-        url: /study/docker/1/
-  - title: "Spark"
-    children:
-      - title: "0. 하둡(Hadoop)과 스파크(Spark)"
-        url: /study/spark/0/
-  - title: "Node.Js"
-    children:
-      - title: "- Node.js란"
-        url: /study/nodejs/0/
-  - title: "DJango"
-    children:
-      - title: "- "
-        url: /study/django/3/
+# study:
+#   - title: "Recommender System"
+#     children:
+#       - title: "0. Recommender System 이란"
+#         url: /study/recommender_system/0/
+#   - title: "Embedding"
+#   - title: "Docker"
+#     children:
+#       - title: "- 도커(Docker)란"
+#         url: /study/docker/0/
+#       - title: "- 도커 이미지와 도커 컨테이너"
+#         url: /study/docker/1/
+#   - title: "Spark"
+#     children:
+#       - title: "0. 하둡(Hadoop)과 스파크(Spark)"
+#         url: /study/spark/0/
+#   - title: "Node.Js"
+#     children:
+#       - title: "- Node.js란"
+#         url: /study/nodejs/0/
+#   - title: "DJango"
+#     children:
+#       - title: "- "
+#         url: /study/django/3/
