@@ -153,8 +153,8 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Hugging Face"
-      icon: "fab fa-fw fa-face-smile"
+    - label: "🤗 Hugging Face"
+      icon: ""
       url: "https://huggingface.co/flowersuna"
     - label: "T Story"
       icon: "fas fa-fw fa-blog"
