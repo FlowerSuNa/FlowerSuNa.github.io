@@ -52,8 +52,7 @@
         {% for link in author.links %}
           {% if link.label and link.url %}
             <li>
-              <i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> 
-              <a href="{{ link.url }}" rel="nofollow noopener noreferrer">{{ link.label }}</a>
+              <i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> <a href="{{ link.url }}" rel="nofollow noopener noreferrer">{{ link.label }}</a>
             </li>
           {% endif %}
         {% endfor %}
