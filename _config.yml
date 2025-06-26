@@ -107,15 +107,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "**SunHwa** Ryu"
+  name             : "SunHwa Ryu"
   avatar           : "/assets/images/my_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a data scientist."
   location         : "Seoul"
-  email            : "chreey3098@naver.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: "chreey3098@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -128,9 +128,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/FlowerSuNa"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Hugging Face "
+      icon: "fab fa-fw fa-face-smile"
+      url: "https://huggingface.co/flowersuna"
+    - label: "T Story"
+      icon: "fas fa-fw fa-blog"
+      url: "https://suna-ml.tistory.com/"
 
 # Site Footer
 footer:
@@ -150,9 +153,12 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "Hugging Face "
+      icon: "fab fa-fw fa-face-smile"
+      url: "https://huggingface.co/flowersuna"
+    - label: "T Story"
+      icon: "fas fa-fw fa-blog"
+      url: "https://suna-ml.tistory.com/"
 
 
 # Reading Files
@@ -308,25 +314,25 @@ defaults:
       share: true
       related: true
   # _study
-  - scope:
-      path: ""
-      type: study
-    values:
-      layout: single
-      author_profile: true
-      comments: true
-      sidebar:
-        nav: "study"
+  # - scope:
+  #     path: ""
+  #     type: study
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     comments: true
+  #     sidebar:
+  #       nav: "study"
   # _ml
-  - scope:
-      path: ""
-      type: ml
-    values:
-      layout: single
-      author_profile: true
-      comments: true
-      sidebar:
-        nav: "ml"
+  # - scope:
+  #     path: ""
+  #     type: ml
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     comments: true
+  #     sidebar:
+  #       nav: "ml"
   # _project
   - scope:
       path: ""
