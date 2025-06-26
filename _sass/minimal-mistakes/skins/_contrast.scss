@@ -1,0 +1,61 @@
+/* ==========================================================================
+   Contrast skin
+   ========================================================================== */
+
+/* Colors */
+$text-color: #553b2e !default; //#000 !default;
+$muted-text-color: $text-color !default;
+$primary-color: #cd5e77 !default; //#ff0000 !default;
+$border-color: mix(#fff, $text-color, 75%) !default;
+$footer-background-color: #553b2e !default; // #000 !default;
+$link-color: #0000ff !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+
+$code-background-color: #e4e4e4 !default;
+
+// $success-color: #3fa63f !default;
+// $warning-color: #d67f05 !default;
+// $danger-color: #ee5f5b !default;
+// $info-color: #3b9cba !default;
+// $focus-color: $primary-color !default;
+// $active-color: mix(#fff, $primary-color, 80%) !default;
+//
+
+/* contrast syntax highlighting (base16) */
+$base00: #f1e8cd !default; // #000000 !default;
+$base01: #a98f80 !default; // #242422 !default;
+$base02: #e8c7b8 !default; // #484844 !default;
+$base03: #6c6c66 !default;
+$base04: #918f88 !default;
+$base05: #553b2e !default; // #b5b3aa !default;
+$base06: #a98f80 !default; // #d9d7cc !default;
+$base07: #fcd45e !default; // #fdfbee !default;
+$base08: #cb4747 !default; // #ff6c60 !default;
+$base09: #e9c062 !default;
+$base0a: #8b2d64 !default; // #ffffb6 !default;
+$base0b: #abbc5d !default; // #a8ff60 !default;
+$base0c: #8b2d64 !default; // #c6c5fe !default;
+$base0d: #1e768a !default; // #96cbfe !default;
+$base0e: #eb92a9 !default; // #ff73fd !default;
+$base0f: #b18a3d !default;
+
+.page__content {
+  .notice,
+  .notice--primary,
+  .notice--info,
+  .notice--warning,
+  .notice--success,
+  .notice--danger {
+    color: $text-color;
+  }
+}
+
+.page__footer {
+  color: #fff !important; // override
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
