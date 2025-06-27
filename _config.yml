@@ -129,10 +129,10 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/FlowerSuNa"
     - label: "Hugging Face "
-      icon: "fab fa-fw fa-face-smile"
+      icon: "fa-solid fa-face-smile"
       url: "https://huggingface.co/flowersuna"
     - label: "T Story"
-      icon: "fas fa-fw fa-blog"
+      icon: "fa-solid fa-t"
       url: "https://suna-ml.tistory.com/"
 
 # Site Footer
