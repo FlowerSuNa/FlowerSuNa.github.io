@@ -289,6 +289,9 @@ compress_html:
 
 # Collections
 collections:
+  pages:
+    output: true
+    permalink: /:path/
   study:
     output: true
     permalink: /:collection/:path/

@@ -47,7 +47,6 @@ $type-size-8: 0.625em !default; // ~10px
    Colors
    ========================================================================== */
 $pink: #cd5e77 !default;
-
 $gray: #7a8288 !default;
 $dark-gray: mix(#000, $gray, 40%) !default;
 $darker-gray: mix(#000, $gray, 60%) !default;
@@ -143,9 +142,9 @@ $max-width: $x-large !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow: 240px !default;
-$right-sidebar-width: 280px !default;
-$right-sidebar-width-wide: 320px !default;
+$right-sidebar-width-narrow: 200px !default;
+$right-sidebar-width: 240px !default;
+$right-sidebar-width-wide: 280px !default;
 
 /*
    Other

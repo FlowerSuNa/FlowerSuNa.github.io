@@ -1,4 +1,8 @@
-# Who I Am
+---
+layout: single
+title: "Who I Am"
+permalink: /intro/
+---
 
 안녕하세요.
 <br><br>
