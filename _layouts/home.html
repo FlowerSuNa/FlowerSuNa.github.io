@@ -4,7 +4,10 @@ layout: archive
 
 {{ content }}
 
-{% include intro.md %}
+{% capture my_intro %}
+  {% include intro.md %}
+{% endcapture %}
+{{ my_intro | markdownify }}
 
 <!-- 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
