@@ -3,15 +3,13 @@ layout: home
 author_profile: true
 ---
 
-<ul>
+<!-- <ul>
     {% for p in site.pages %}
         <li>{{ p.url }}</li>
     {% endfor %}
-</ul>
+</ul> -->
 
-<!-- {% assign intro = site.pages | where: "permalink", "/intro/" | first %}
+{% assign intro = site.pages | where: "url", "/intro/" | first %}
 {% if intro %}
   {{ intro.content }}
-{% else %}
-  <p><strong>intro 페이지를 찾을 수 없습니다.</strong></p>
-{% endif %} -->
+{% endif %}
