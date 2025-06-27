@@ -4,7 +4,7 @@ title: "Intro"
 permalink: /intro/
 ---
 
-# Who I Am
+# About Me
 
 안녕하세요.
 <br><br>
