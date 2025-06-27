@@ -3,5 +3,5 @@ layout: home
 author_profile: true
 ---
 
-{% assign intro = site.posts | where: "permalink", "/intro/" | first %}
+{% assign intro = site.pages | where: "permalink", "/intro/" | first %}
 {{ intro.content | markdownify }}
