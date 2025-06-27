@@ -127,13 +127,13 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fa-brands fa-github fa-fw" 
       url: "https://github.com/FlowerSuNa"
     - label: "Hugging Face "
-      icon: "fa-solid fa-face-smile"
+      icon: "fa-solid fa-face-smile fa-fw"
       url: "https://huggingface.co/flowersuna"
     - label: "T Story"
-      icon: "fa-solid fa-t"
+      icon: "fa-solid fa-t fa-fw"
       url: "https://suna-ml.tistory.com/"
 
 # Site Footer
@@ -146,7 +146,7 @@ footer:
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fa-brands fa-github fa-fw" 
       url: "https://github.com/FlowerSuNa"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
@@ -155,10 +155,10 @@ footer:
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Hugging Face"
-      icon: "fa-solid fa-face-smile"
+      icon: "fa-solid fa-face-smile fa-fw"
       url: "https://huggingface.co/flowersuna"
     - label: "T Story"
-      icon: "fa-solid fa-t"
+      icon: "fa-solid fa-t fa-fw"
       url: "https://suna-ml.tistory.com/"
 
 
