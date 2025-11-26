@@ -1,5 +1,11 @@
 # main links
 main:
+  - title: "Intro"
+    url: /intro/
+  - title: "Skills"
+    url: /skills/
+  - title: "Blog"
+    url: https://suna-ml.tistory.com/
   # - title: "Study"
   #   url: /study/
   # - title: "ML"
