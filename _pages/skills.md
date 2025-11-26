@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "Skills"
 permalink: /skills/
 ---
