@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: archive
 permalink: /intro/
 author_profile: true
+title: ""
 ---
 
 # About Me

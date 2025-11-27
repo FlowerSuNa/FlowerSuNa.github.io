@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: archive
 permalink: /skills/
 author_profile: true
+title: ""
 ---
 
 # Skill Stack
