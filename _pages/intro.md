@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /intro/
+author_profile: true
 ---
 
 # About Me

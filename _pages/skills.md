@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /skills/
+author_profile: true
 ---
 
 # Skill Stack
