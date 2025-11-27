@@ -294,7 +294,7 @@ compress_html:
 collections:
   pages:
     output: true
-    permalink: /:title/
+    permalink: /:collection/
   study:
     output: true
     permalink: /:collection/:path/
@@ -319,7 +319,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: archive
       author_profile: true
   # _study
   # - scope:
