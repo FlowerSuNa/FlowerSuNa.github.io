@@ -10,7 +10,7 @@ title: ""
 ### 1. AI Engineering
 - LangChain을 활용해 다양한 문서, 웹데이터 기반 RAG 시스템을 설계하고, 정형 구조(JSON/TypedDict) 응답을 안정적으로 생성하는 프롬프트 구조를 만들 수 있습니다.
 - LangGraph를 활용해 도구 호출, Text2SQL, Multi-step reasoning을 갖춘 에이전트 워크플로우를 구성할 수 있습니다.
-- MCP Server를 구현해 외부 검색/연산 기능을 ChatGPT 에이전트 도구로 제공할 수 있습니다.
+- MCP Server를 구현해 외부 검색/연산 기능을 에이전트 도구로 제공할 수 있습니다.
 - Langfuse를 활용하여 RAG 시스템의 답변 품질 평가, A/B 테스트, 스텝 단위 추적(trace) 기반 품질 분석을 수행할 수 있습니다.
 - Hugging Face Spaces로 LLM inference API와 UI를 함께 배포하여 실사용 테스트가 가능한 데모 환경을 구축할 수 있습니다.
 

@@ -22,9 +22,12 @@ title: ""
 
 ### 지친 마음에 지혜와 위로를 전하는 LLM 챗봇 / 2025
 - Web App 🔗 [Link](https://udify.app/chat/bkhRHiyw7660dHQF)
-- MCP Server 🔗 [Link](https://api.dify.ai/mcp/server/KMnBWqOH09DiUKLQ/mcp)
 - GitHub Repository 🔗 [Link](https://github.com/FlowerSuNa/mind_lantern)
 - Blog Post 🔗 [Link](https://suna-ml.tistory.com/11)
+- MCP Server 
+    ```bash
+    https://api.dify.ai/mcp/server/KMnBWqOH09DiUKLQ/mcp
+    ```
 
 ### Upstage: LG U+ AI Ground 대회 참여 / 2022
 - Github Repository 🔗 [Link](https://github.com/FlowerSuNa/upstage-Uplus.git)

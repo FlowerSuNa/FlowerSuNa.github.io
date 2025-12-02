@@ -112,11 +112,11 @@ author:
   avatar           : "/assets/images/my_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a data scientist."
   location         : "Seoul"
-  email            : 
+  email            : "chreey3098@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "chreey3098@naver.com"
+      # url: "chreey3098@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
